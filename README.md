@@ -8,7 +8,7 @@
  * Evaluation Metrics: Log loss & Confusion matrix .
 
 ## Demo video :video_camera:
-* https://youtu.be/p8kCMDpUi3Y :movie_camera:
+* https://youtu.be/H91AFzkzaX4 :movie_camera:
 
 ## Tech stack :technologist:
 Machine Learning | Python | AJAX | Bootstrap | VS CODE IDE :computer:
@@ -22,9 +22,9 @@ Note: Not to worry if few files are missing in the repo, those file can be gener
 ![](https://github.com/Akshaykumarcp/quora-duplicate-question-prediction/blob/main/screenshots/dataset.jpg)
 
 ## How to run ? :runner:
-1. Clone/Download the project from github
-2. create new conda/python environment, activate the environment created and install application dependencies via terminal command in root directory of the application by "pip install -r requirments.txt"
-3. Run 0.8_prediction.py file (https://youtu.be/p8kCMDpUi3Y)
+1. Clone/Download the project from github.
+2. create new conda/python environment, activate the environment created and install application dependencies via terminal command in root directory of the application by "pip install -r requirments.txt".
+3. Run 0.8_prediction.py file.
 
 ## License :book:
 [<img align="left" alt="" width="52px" src="https://icon-icons.com/icons2/2649/PNG/512/mit_license_icon_160873.png" />](https://spdx.org/licenses/MIT.html)
